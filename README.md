@@ -1,2 +1,2 @@
 # angular-bootstrap-layout
-Light-weight directives for better bootstrap layout development experience
+Lightweight AngularJS directives for better Bootstrap layout development experience.
