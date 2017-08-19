@@ -1,6 +1,7 @@
 language: node_js
 before_script:
   - npm i -g gulp-cli
-cache:
-  directories:
-    - "node_modules"
+# Temporarily switch node_modules caching off in Travis until we get a more or less stable set of dependencies
+#cache:
+#  directories:
+#    - "node_modules"
