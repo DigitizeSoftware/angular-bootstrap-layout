@@ -1,6 +1,8 @@
 # angular-bootstrap-layout
 Lightweight AngularJS directives for better Bootstrap layout development experience.
 
+**NB! This project is currently in the design phase so not much from the source code is actually available.**
+
 The idea behind this project is to create a set of lightweight Angular directives that will help build Bootstrap
 layout faster and with less boilerplate. Example:
 ```html
@@ -58,3 +60,4 @@ A more complex example:
   <btn submit default>Submit</btn>
 </layout-form>
 ```
+**Any feedbacks, ideas and other contributions are very welocome!**
