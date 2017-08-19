@@ -1,4 +1,4 @@
-# angular-bootstrap-layout
+# angular-bootstrap-layout [![Build Status](https://travis-ci.org/DigitizeSoftware/angular-bootstrap-layout.svg?branch=master)](https://travis-ci.org/DigitizeSoftware/angular-bootstrap-layout)
 Lightweight AngularJS directives for better Bootstrap layout development experience.
 
 **NB! This project is currently in the design phase so not much from the source code is actually available.**
